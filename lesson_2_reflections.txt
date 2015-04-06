@@ -33,3 +33,6 @@ Merging two branches together brings all the changes and history from each branc
 so that all version of the documents from both branches are accessible under the main label. The changes are
 best represented in the diagram to show where the branches separated and rejoined and what took place when.
 
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Time saving with automatic merging but risking Git keeping the wrong changes.
+
