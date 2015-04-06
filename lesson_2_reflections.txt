@@ -14,4 +14,12 @@ Q: How can you use the staging area to make sure you have one commit per logical
 
 By moving only the files(s) that contain the changes to the staging area before committing.
 
+q: What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+When you need to create a version of your project that does something different to the original
+version while keeping the history of the original version intact. Branches are like copies of repositories
+allowing you to make changes to the copy without touching the original.
+
+
 
