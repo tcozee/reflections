@@ -3,3 +3,10 @@ Q: What happens when you initialize a repository? Why do you need to do it?
 Git creates a hidden directory for tracking purposes. This is necessary in order to 
 create commits.
 
+Q: How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+The staging area is a temporary transfer point between a file being a regular file 
+in a directory and being a tracked file in a repository. It allows you to decide 
+exactly which files will be tracked in a project.
+
