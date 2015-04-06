@@ -26,3 +26,10 @@ Q: How do the diagrams help you visualize the branch structure?
 Diagrams show you the point when new branches were created and what commits they have in common
 with existing branches.
 
+Q: What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+Merging two branches together brings all the changes and history from each branch into the 'merge host'
+so that all version of the documents from both branches are accessible under the main label. The changes are
+best represented in the diagram to show where the branches separated and rejoined and what took place when.
+
