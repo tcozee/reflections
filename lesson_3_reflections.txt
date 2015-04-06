@@ -22,3 +22,9 @@ Q: What is the benefit of having a copy of the last known state of the remote st
 
 It provides a reference point for future merging with collaborators.
 
+Q: How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+
+Probably Dropbox but it would involve way more verbal communication to keep track of all the changes.
+
+
