@@ -10,3 +10,8 @@ The staging area is a temporary transfer point between a file being a regular fi
 in a directory and being a tracked file in a repository. It allows you to decide 
 exactly which files will be tracked in a project.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+By moving only the files(s) that contain the changes to the staging area before committing.
+
+
