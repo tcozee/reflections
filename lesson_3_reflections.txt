@@ -27,4 +27,10 @@ What would be easier, and what would be harder?
 
 Probably Dropbox but it would involve way more verbal communication to keep track of all the changes.
 
+Q: When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+In case everything blows up. Also to make sure the changes are agreed on before committing them 
+to the working master.
+
 
