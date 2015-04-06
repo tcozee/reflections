@@ -17,3 +17,8 @@ branch is a part of a local or remote repository to connects related? commits.
 Forks are for copying while giving credit to to owner and for easy collaboration. Clones
 are for taking an off-line copy of a repository. Branches are for taking tangents within projects
 with the ability to get back to the main program or merge.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It provides a reference point for future merging with collaborators.
+
